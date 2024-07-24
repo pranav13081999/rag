@@ -9,7 +9,6 @@ langchain
 tiktoken 
 pypdf 
 rapidocr-onnxruntime 
-
 sentence-transformers 
 streamlit
 langchain-groq
