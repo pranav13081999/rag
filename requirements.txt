@@ -17,6 +17,5 @@ unstructured
 langchain-google-genai
 pdfminer.six
 unstructured-pytesseract
-leptonica
 PIL
 tesseract-ocr
